@@ -13,7 +13,7 @@
   <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <div class="tenor-gif-embed" data-postid="15515923" data-share-method="host" data-aspect-ratio="1.12676" data-width="100%"><a href="https://tenor.com/view/mlp-luna-evil-authority-power-gif-15515923">Mlp Luna GIF</a>from <a href="https://tenor.com/search/mlp-gifs">Mlp GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img align="right" alt="Diego-gif" src="https://tenor.com/view/mlp-luna-evil-authority-power-gif-15515923">
   
 </div>
 
