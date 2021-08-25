@@ -13,7 +13,7 @@
   <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="Diego-gif" src="https://tenor.com/view/mlp-luna-evil-authority-power-gif-15515923">
+  <img align="right" alt="Diego-gif" src="https://discord.com/channels/692428789161918484/721048484802986005/879939147656212520">
   
 </div>
 
