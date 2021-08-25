@@ -1,5 +1,5 @@
 - 👋 Saudações, me chamo Diego Lucas (também conhecido como Diego Lulamoon hehe)
-- 🧑‍🎓 Sou um inicante na área, atualmente aprendendo o básico de Python.
+- 🧑‍🎓 Sou um inicante na área, atualmente aprendendo o básico de Python, CSS e um pouco de HTML.
 - 💻 Ainda não estou procurando por emprego na área, porém assim que eu possuir conhecimento suficiente, estarei disposto a me aventurar.
 - 📧 E-mail para contato: diegolucasarc@gmail.com
 - 🦄 Curiosidades: Eu amo animações no geral, sou um pouco excêntrico e me interesso por cryptos.
@@ -25,7 +25,7 @@
  	<a href="https://www.twitch.tv/arlkawa" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:diegolucasarc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DiegoLulamoon/DiegoLulamoon/blob/output/github-contribution-grid-snake.svg)
   
   </div>
 
