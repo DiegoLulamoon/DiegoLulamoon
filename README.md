@@ -1,8 +1,8 @@
-- 👋 Saudações, me chamo Diego Lucas (também conhecido como Lulamoon hehe)
-- 🧑‍🎓 Sou um inicante na área, atualmente aprendendo o básico de Python, Javascript, CSS, e HTML 5.
-- 💻 Ainda não estou procurando por emprego na área, porém assim que eu possuir conhecimento suficiente, estarei disposto a me aventurar.
-- 📧 E-mail para contato: diegolucasarc@gmail.com
-- 🦄 Curiosidades: Eu amo animações no geral, sou um pouco excêntrico e me interesso por cryptos.
+- 👋 Greetings, I'm Diego Lucas (also known as just Lulamoon hehe)
+- 🧑‍🎓 I'm just a beginner in the area, at the moment I'm learning the basic of the following languages: Python, Javascript, CSS, and HTML 5.
+- 💻 I'm not looking for a job in the field yet, but once I have enough knowledge, I'll be willing to venture out.
+- 📧 My email and other contacts are on the bagdes below.
+- 🦄 Trivia: I love animations in general, I'm a bit eccentric and I'm very interested in cryptocurrencies.
 
 
 
