@@ -5,9 +5,12 @@
 - 🦄 Curiosidades: Eu amo animações no geral, sou um pouco excêntrico e me interesso por cryptos.
 
 
+
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoLulamoon&show_icons=true&theme=synthwave)
 
- [![wakatime](https://wakatime.com/badge/github/DiegoLulamoon/DiegoLulamoon.svg)](https://wakatime.com/badge/github/DiegoLulamoon/DiegoLulamoon)
+ <a href="https://wakatime.com/badge/github/DiegoLulamoon/DiegoLulamoon"><img src="https://wakatime.com/badge/github/DiegoLulamoon/DiegoLulamoon.svg"></a>
+</p>
 
 <div style="display: inline_block"><br>
   
