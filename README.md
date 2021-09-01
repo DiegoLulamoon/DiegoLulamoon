@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoLulamoon&show_icons=true&theme=synthwave)
 
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@DiegoLulamoon&theme=synthwave&count_private=true&layout=compact" alt="Wakatime stats" /><br />
+ [![wakatime](https://wakatime.com/badge/github/DiegoLulamoon/DiegoLulamoon.svg)](https://wakatime.com/badge/github/DiegoLulamoon/DiegoLulamoon)
 
 <div style="display: inline_block"><br>
   
