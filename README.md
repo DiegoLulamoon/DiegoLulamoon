@@ -6,11 +6,10 @@
 
 
 
-<p align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoLulamoon&show_icons=true&theme=synthwave)
 
- <a href="https://wakatime.com/badge/github/DiegoLulamoon/DiegoLulamoon"><img src="https://wakatime.com/badge/github/DiegoLulamoon/DiegoLulamoon.svg"></a>
-</p>
+<img src="https://wakatime.com/badge/github/DiegoLulamoon/DiegoLulamoon.svg&theme=synthwave&count_private=true&layout=compact" alt="Wakatime stats" /><br />
 
 <div style="display: inline_block"><br>
   
