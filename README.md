@@ -9,7 +9,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoLulamoon&show_icons=true&theme=synthwave)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@DiegoLulamoon&theme=synthwave&count_private=true&layout=compact"/><br/>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DiegoLulamoon)]
+
 
 <div style="display: inline_block"><br>
   
