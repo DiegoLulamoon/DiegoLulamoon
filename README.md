@@ -1,5 +1,5 @@
 - 👋 Greetings, I'm Diego Lucas (also known as just Lulamoon hehe)
-- 🧑‍🎓 I'm just a beginner in the area, at the moment I'm learning the basic of the following languages: Python, Javascript, CSS, and HTML 5.
+- 🧑‍🎓 I'm just a beginner in the area, at the moment I'm learning the basic of the following languages and tools: Python, Javascript, CSS, and HTML 5.
 - 💻 I'm not looking for a job in the field yet, but once I have enough knowledge, I'll be willing to venture out.
 - 📧 My email and other contacts are on the bagdes below.
 - 🦄 Trivia: I love animations in general, I'm a bit eccentric and I'm very interested in cryptocurrencies.
@@ -9,7 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoLulamoon&show_icons=true&theme=synthwave)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@DiegoLulamoon&theme=synthwave&count_private=true&layout=compact" alt="Wakatime stats" /><br />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@DiegoLulamoon&theme=synthwave&count_private=true&layout=compact"/><br/>
 
 <div style="display: inline_block"><br>
   
