@@ -7,11 +7,9 @@
 
 
 
-[!](https://github-readme-stats.vercel.app/api?username=DiegoLulamoon&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoLulamoon&show_icons=true&theme=synthwave)
 
-[![Top Langs]](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLulamoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DiegoLulamon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLulamoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
