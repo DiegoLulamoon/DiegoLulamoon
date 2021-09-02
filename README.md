@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoLulamoon&show_icons=true&theme=tokyonight" alt="DiegoLulamoon" /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoLulamoon&show_icons=true&theme=sythwave" alt="DiegoLulamoon" /><br />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@DiegoLulamoon&theme=tokyonight&count_private=true&layout=compact" alt="Wakatime stats" /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLulamoon&layout=compact&show_icons=true&theme=tokyonight" alt="Top langs" /><br />
 </p>
