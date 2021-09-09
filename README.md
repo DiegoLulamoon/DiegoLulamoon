@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DiegoLulamoon&show_icons=true&theme=synthwave" alt="DiegoLulamoon" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@DiegoLulamoon&theme=synthwave&count_private=true&layout=compact" alt="Wakatime stats" /><br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLulamoon&layout=compact&langs_count=7&theme=synthwave"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLulamoon&layout=compact&show_icons=true&theme=synthwave" alt="Top langs" /><br />
 </p>
 
