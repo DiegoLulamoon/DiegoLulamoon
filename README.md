@@ -1,8 +1,8 @@
-- 👋 Greetings, I'm Diego Lucas (also known as just Lulamoon hehe)
-- 🧑‍🎓 I'm just a beginner in the area, at the moment I'm learning the basic of the following languages and tools: Python, Javascript, CSS, and HTML 5.
-- 💻 I'm not looking for a job in the field yet, but once I have enough knowledge, I'll be willing to venture out.
+- 👋 Greetings, I'm Diego Lucas (also known as just Lulamoon by some)
+- 🧑‍🎓 I'm just a beginner in the area, at the moment I'm learning the basic of the following languages and tools: Python, Java, SQL, CSS, and HTML 5.
+- 💻 Currently seeking opportunities in IT, particularly in Technical Support, Service Desk, Infrastructure, or even Cloud.
 - 📧 My email and other contacts are on the bagdes below.
-- 🦄 Trivia: I love animations in general, I'm a bit eccentric and I'm very interested in cryptocurrencies.
+- 🌙 Trivia: I love animations in general, I'm a bit eccentric and I'm very interested in cryptocurrencies.
 
 
 
@@ -21,7 +21,7 @@
   <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="Luna gif" src="https://c.tenor.com/MrLvzyev4e4AAAAM/mlp-luna.gif">
+  <img align="right" alt="Glaceon gif" height="30" width="30" src="https://media1.tenor.com/m/AihwqH_FZf4AAAAd/pokemon-sleep.gif">
   
   
 </div>
