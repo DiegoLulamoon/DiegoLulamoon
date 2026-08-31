@@ -1,4 +1,5 @@
 - 👋 Greetings, I'm Diego Lucas (also known as just Lulamoon by some)
+- 🧑‍💻 Currently pursuing a degree in Information Technology at UNIVESP, expected to graduate in 2027.
 - 🧑‍🎓 I'm just a beginner in the area, at the moment I'm learning the basic of the following languages and tools: Python, Java, SQL, CSS, and HTML 5.
 - 💻 Currently seeking opportunities in IT, particularly in Technical Support, Service Desk, Infrastructure, or even Cloud.
 - 📧 My email and other contacts are on the bagdes below.
